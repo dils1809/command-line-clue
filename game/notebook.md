@@ -19,5 +19,6 @@
 "se descarta el carpintero"
 "nueva pista en el directorio shops"
 "Nueva pista en el market"
+"Nueva pista el town hall"
 
 Location of the crime is still unknown - the room must have been empty when it happened...
