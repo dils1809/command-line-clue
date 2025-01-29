@@ -15,5 +15,6 @@
 "primera pista 'las casas' "
 "Segunda pista en la mansion"
 "se tacha de la lista heavy book"
+"siguiente pista en la library"
 
 Location of the crime is still unknown - the room must have been empty when it happened...
