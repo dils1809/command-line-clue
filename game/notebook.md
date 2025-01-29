@@ -16,6 +16,7 @@
 "Segunda pista en la mansion"
 "se tacha de la lista heavy book"
 "siguiente pista en la library"
+"se descarta el carpintero"
 "nueva pista en el directorio shops"
 "Nueva pista en el market"
 
