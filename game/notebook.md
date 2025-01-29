@@ -17,5 +17,6 @@
 "se tacha de la lista heavy book"
 "siguiente pista en la library"
 "nueva pista en el directorio shops"
+"Nueva pista en el market"
 
 Location of the crime is still unknown - the room must have been empty when it happened...
